@@ -27,7 +27,7 @@ Aplicar e entender como funcionam os algoritmos de busca (linear) e ordenação 
 - Foco no uso de listas de dicionários, funções e interação com o usuário via terminal
 
 ---
-## Exemplos de uso
+# Exemplos de uso
 Digite o nome do aluno: PH
 Aluno encontrado: {'nome': 'PH', 'disciplina': 'Estrutura de Dados', 'nota': 7.0}
 
