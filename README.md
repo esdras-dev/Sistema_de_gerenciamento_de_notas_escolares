@@ -31,7 +31,7 @@ Aplicar e entender como funcionam os algoritmos de busca (linear) e ordenação 
 Digite o nome do aluno: PH
 Aluno encontrado: {'nome': 'PH', 'disciplina': 'Estrutura de Dados', 'nota': 7.0}
 
-# Ordenar por nome
+## Ordenar por nome
 Alunos ordenados por nome:
 Nome: Esdras, Disciplina: Banco de Dados, Nota: 8.5
 Nome: Gabriel, Disciplina: Cálculo II, Nota: 9.2
