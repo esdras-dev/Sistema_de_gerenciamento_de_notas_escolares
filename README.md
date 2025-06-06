@@ -59,7 +59,7 @@ Gabriel lima da silva - RGM: 40846059
 
 Vitor Hugo Duarte lima - RGM: 38853558       
 
-Paulo Henrique Santos Lopes - RGM: 39189775
+Paulo Henrique Santos Lopes - RGM: 39189775           
 
 
 
