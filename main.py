@@ -63,4 +63,4 @@ def menu():
             print("Opção inválida. Tente novamente.")
 
 # Iniciar o programa
-menu()
+menu()    
