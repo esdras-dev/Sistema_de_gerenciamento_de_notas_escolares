@@ -28,8 +28,8 @@ Aplicar e entender como funcionam os algoritmos de busca (linear) e ordenação 
 
 ---
 ## Exemplos de uso
-Digite o nome do aluno: Ana
-Aluno encontrado: {'nome': 'Ana', 'disciplina': 'Matemática', 'nota': 8.5}
+Digite o nome do aluno: PH
+Aluno encontrado: {'nome': 'PH', 'disciplina': 'Estrutura de Dados', 'nota': 7.0}
 
 # Ordenar por nome
 Alunos ordenados por nome:
