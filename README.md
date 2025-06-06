@@ -57,7 +57,7 @@ Kevin Paulo Santos - RGM: 39027821
 
 Gabriel lima da silva - RGM: 40846059
 
-Vitor Hugo Duarte lima - RGM: 38853558
+Vitor Hugo Duarte lima - RGM: 38853558       
 
 Paulo Henrique Santos Lopes - RGM: 39189775
 
