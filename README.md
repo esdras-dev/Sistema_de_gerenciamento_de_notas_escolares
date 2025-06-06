@@ -1,4 +1,4 @@
-#Sistema de Gerenciamento de Notas Escolares
+## Sistema de Gerenciamento de Notas Escolares
 
 Este projeto foi desenvolvido com o objetivo de praticar conceitos de **algoritmos de busca e ordenação** utilizando a linguagem Python, em um contexto realista de gerenciamento de notas escolares.
 
