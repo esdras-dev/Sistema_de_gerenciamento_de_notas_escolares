@@ -5,6 +5,7 @@ alunos = [
     {"nome": "Gabriel", "disciplina": "Cálculo II", "nota": 9.2},
     {"nome": "Kevin", "disciplina": "POO", "nota": 6.8},
     {"nome": "Victor Hugo", "disciplina": "Calculo I", "nota": 8.8},
+    {"nome": "Lua", "disciplina": "Programação Web", "nota": 8.3},
 ]
 
 # Função para mostrar todos os alunos
